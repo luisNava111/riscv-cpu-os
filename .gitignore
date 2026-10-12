@@ -53,3 +53,16 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build directory
+build/
+
+# Verilator
+obj_dir/
+
+# Waveforms
+*.vcd
+*.fst
+
+# Icarus Verilog
+*.vvp
